@@ -1,0 +1,9 @@
+datos base de datos:
+Nombre: CarreFive
+usuario: admin
+contraseña: admin
+
+datos para acceso al programa:
+usuario: 1234
+contraseña: 1234
+
